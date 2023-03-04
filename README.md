@@ -10,7 +10,7 @@ The simulation is not working prorperly (all the boids just eventually merge and
 ## Getting started
 
 ```
-$ sudo apt-get install libsdl2-dev
+$ sudo apt-get install libsdl2-dev  libsdl2-gfx-dev
 $ make
 $ ./boids
 ```
